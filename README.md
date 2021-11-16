@@ -1,7 +1,4 @@
 ### 👋
-Hackathons >>
-  ### BNY Mellon
-  ### DeFi Para o Brasil (Em andamento)
 <!--
 **Luketss/Luketss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
