@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi! Welcome!
+
+- 🔭 I’m currently working on Python projects
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luketss)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luketss&hide_progress=true)-->
 
