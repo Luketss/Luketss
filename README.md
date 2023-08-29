@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python projects
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luketss)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luketss&hide_progress=true)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luketss&hide_progress=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luketss)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luketss)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassilluzio/)
