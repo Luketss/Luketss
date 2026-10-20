@@ -57,9 +57,9 @@ I build automation, scalable backend systems, cloud infrastructure, and AI-power
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <i>"Great software doesn't just solve problems — it creates new possibilities."</i>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luketss&style=flat-square&color=blueviolet" alt="Profile views" />
